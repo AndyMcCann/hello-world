@@ -17,3 +17,5 @@ This change shouldn't have a conflict with other changes.
 Keeping up my github practicing.
 
 This is me adding my change.
+
+This is me adding more text.
